@@ -1,0 +1,341 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9" xmlns:xhtml="http://www.w3.org/1999/xhtml">
+
+  <!-- Turkish Pages -->
+  <url>
+       <loc>https://fatihozden.av.tr/</loc>
+       <xhtml:link rel="alternate" hreflang="tr" href="https://fatihozden.av.tr/"/>
+       <xhtml:link rel="alternate" hreflang="x-default" href="https://fatihozden.av.tr/"/>
+       <xhtml:link rel="alternate" hreflang="en" href="https://fatihozden.av.tr/en/"/>
+       <lastmod>2026-02-28T15:30:00+00:00</lastmod>
+       <changefreq>daily</changefreq>
+       <priority>1.0000</priority>
+  </url>
+  
+  <!-- Hizmet Sayfaları (TR) -->
+  <url>
+       <loc>https://fatihozden.av.tr/uzman-arabuluculuk.html</loc>
+       <xhtml:link rel="alternate" hreflang="tr" href="https://fatihozden.av.tr/uzman-arabuluculuk.html"/>
+       <xhtml:link rel="alternate" hreflang="x-default" href="https://fatihozden.av.tr/uzman-arabuluculuk.html"/>
+       <xhtml:link rel="alternate" hreflang="en" href="https://fatihozden.av.tr/en/expert-mediation.html"/>
+       <lastmod>2026-02-28T15:30:00+00:00</lastmod>
+       <changefreq>weekly</changefreq>
+       <priority>0.9000</priority>
+  </url>
+  <url>
+       <loc>https://fatihozden.av.tr/aile-hukuku.html</loc>
+       <xhtml:link rel="alternate" hreflang="tr" href="https://fatihozden.av.tr/aile-hukuku.html"/>
+       <xhtml:link rel="alternate" hreflang="x-default" href="https://fatihozden.av.tr/aile-hukuku.html"/>
+       <xhtml:link rel="alternate" hreflang="en" href="https://fatihozden.av.tr/en/family-law.html"/>
+       <lastmod>2026-02-28T15:30:00+00:00</lastmod>
+       <changefreq>weekly</changefreq>
+       <priority>0.8000</priority>
+  </url>
+  <url>
+       <loc>https://fatihozden.av.tr/is-hukuku.html</loc>
+       <xhtml:link rel="alternate" hreflang="tr" href="https://fatihozden.av.tr/is-hukuku.html"/>
+       <xhtml:link rel="alternate" hreflang="x-default" href="https://fatihozden.av.tr/is-hukuku.html"/>
+       <xhtml:link rel="alternate" hreflang="en" href="https://fatihozden.av.tr/en/employment-law.html"/>
+       <lastmod>2026-02-28T15:30:00+00:00</lastmod>
+       <changefreq>weekly</changefreq>
+       <priority>0.8000</priority>
+  </url>
+  <url>
+       <loc>https://fatihozden.av.tr/gayrimenkul-hukuku.html</loc>
+       <xhtml:link rel="alternate" hreflang="tr" href="https://fatihozden.av.tr/gayrimenkul-hukuku.html"/>
+       <xhtml:link rel="alternate" hreflang="x-default" href="https://fatihozden.av.tr/gayrimenkul-hukuku.html"/>
+       <xhtml:link rel="alternate" hreflang="en" href="https://fatihozden.av.tr/en/real-estate-law.html"/>
+       <lastmod>2026-02-28T15:30:00+00:00</lastmod>
+       <changefreq>weekly</changefreq>
+       <priority>0.8000</priority>
+  </url>
+  <url>
+       <loc>https://fatihozden.av.tr/miras-hukuku.html</loc>
+       <xhtml:link rel="alternate" hreflang="tr" href="https://fatihozden.av.tr/miras-hukuku.html"/>
+       <xhtml:link rel="alternate" hreflang="x-default" href="https://fatihozden.av.tr/miras-hukuku.html"/>
+       <xhtml:link rel="alternate" hreflang="en" href="https://fatihozden.av.tr/en/inheritance-law.html"/>
+       <lastmod>2026-02-28T15:30:00+00:00</lastmod>
+       <changefreq>weekly</changefreq>
+       <priority>0.8000</priority>
+  </url>
+  <url>
+       <loc>https://fatihozden.av.tr/ceza-hukuku.html</loc>
+       <xhtml:link rel="alternate" hreflang="tr" href="https://fatihozden.av.tr/ceza-hukuku.html"/>
+       <xhtml:link rel="alternate" hreflang="x-default" href="https://fatihozden.av.tr/ceza-hukuku.html"/>
+       <xhtml:link rel="alternate" hreflang="en" href="https://fatihozden.av.tr/en/criminal-defense.html"/>
+       <lastmod>2026-02-28T15:30:00+00:00</lastmod>
+       <changefreq>weekly</changefreq>
+       <priority>0.8000</priority>
+  </url>
+  <url>
+       <loc>https://fatihozden.av.tr/idare-hukuku.html</loc>
+       <xhtml:link rel="alternate" hreflang="tr" href="https://fatihozden.av.tr/idare-hukuku.html"/>
+       <xhtml:link rel="alternate" hreflang="x-default" href="https://fatihozden.av.tr/idare-hukuku.html"/>
+       <xhtml:link rel="alternate" hreflang="en" href="https://fatihozden.av.tr/en/administrative-law.html"/>
+       <lastmod>2026-02-28T15:30:00+00:00</lastmod>
+       <changefreq>weekly</changefreq>
+       <priority>0.8000</priority>
+  </url>
+  <url>
+       <loc>https://fatihozden.av.tr/icra-iflas.html</loc>
+       <xhtml:link rel="alternate" hreflang="tr" href="https://fatihozden.av.tr/icra-iflas.html"/>
+       <xhtml:link rel="alternate" hreflang="x-default" href="https://fatihozden.av.tr/icra-iflas.html"/>
+       <xhtml:link rel="alternate" hreflang="en" href="https://fatihozden.av.tr/en/enforcement-bankruptcy-law.html"/>
+       <lastmod>2026-02-28T15:30:00+00:00</lastmod>
+       <changefreq>weekly</changefreq>
+       <priority>0.8000</priority>
+  </url>
+  <url>
+       <loc>https://fatihozden.av.tr/hukuki-danismanlik.html</loc>
+       <xhtml:link rel="alternate" hreflang="tr" href="https://fatihozden.av.tr/hukuki-danismanlik.html"/>
+       <xhtml:link rel="alternate" hreflang="x-default" href="https://fatihozden.av.tr/hukuki-danismanlik.html"/>
+       <xhtml:link rel="alternate" hreflang="en" href="https://fatihozden.av.tr/en/legal-consultancy.html"/>
+       <lastmod>2026-02-28T15:30:00+00:00</lastmod>
+       <changefreq>weekly</changefreq>
+       <priority>0.8000</priority>
+  </url>
+  
+  <!-- Blog Sayfaları (TR) -->
+  <url>
+       <loc>https://fatihozden.av.tr/arabuluculuk-sureci.html</loc>
+       <xhtml:link rel="alternate" hreflang="tr" href="https://fatihozden.av.tr/arabuluculuk-sureci.html"/>
+       <xhtml:link rel="alternate" hreflang="x-default" href="https://fatihozden.av.tr/arabuluculuk-sureci.html"/>
+       <xhtml:link rel="alternate" hreflang="en" href="https://fatihozden.av.tr/en/mediation-process.html"/>
+       <lastmod>2026-02-28T15:30:00+00:00</lastmod>
+       <changefreq>monthly</changefreq>
+       <priority>0.7000</priority>
+  </url>
+  <url>
+       <loc>https://fatihozden.av.tr/cerkezkoy-bosanma-davalari.html</loc>
+       <xhtml:link rel="alternate" hreflang="tr" href="https://fatihozden.av.tr/cerkezkoy-bosanma-davalari.html"/>
+       <xhtml:link rel="alternate" hreflang="x-default" href="https://fatihozden.av.tr/cerkezkoy-bosanma-davalari.html"/>
+       <xhtml:link rel="alternate" hreflang="en" href="https://fatihozden.av.tr/en/cerkezkoy-divorce-cases.html"/>
+       <lastmod>2026-02-28T15:30:00+00:00</lastmod>
+       <changefreq>monthly</changefreq>
+       <priority>0.7000</priority>
+  </url>
+  <url>
+       <loc>https://fatihozden.av.tr/kidem-tazminati.html</loc>
+       <xhtml:link rel="alternate" hreflang="tr" href="https://fatihozden.av.tr/kidem-tazminati.html"/>
+       <xhtml:link rel="alternate" hreflang="x-default" href="https://fatihozden.av.tr/kidem-tazminati.html"/>
+       <xhtml:link rel="alternate" hreflang="en" href="https://fatihozden.av.tr/en/severance-pay.html"/>
+       <lastmod>2026-02-28T15:30:00+00:00</lastmod>
+       <changefreq>monthly</changefreq>
+       <priority>0.7000</priority>
+  </url>
+  <url>
+       <loc>https://fatihozden.av.tr/arabuluculuk-rehberi.html</loc>
+       <xhtml:link rel="alternate" hreflang="tr" href="https://fatihozden.av.tr/arabuluculuk-rehberi.html"/>
+       <xhtml:link rel="alternate" hreflang="x-default" href="https://fatihozden.av.tr/arabuluculuk-rehberi.html"/>
+       <xhtml:link rel="alternate" hreflang="en" href="https://fatihozden.av.tr/en/mediation-guide.html"/>
+       <lastmod>2026-02-28T15:30:00+00:00</lastmod>
+       <changefreq>monthly</changefreq>
+       <priority>0.7000</priority>
+  </url>
+  <url>
+       <loc>https://fatihozden.av.tr/reddi-miras.html</loc>
+       <xhtml:link rel="alternate" hreflang="tr" href="https://fatihozden.av.tr/reddi-miras.html"/>
+       <xhtml:link rel="alternate" hreflang="x-default" href="https://fatihozden.av.tr/reddi-miras.html"/>
+       <xhtml:link rel="alternate" hreflang="en" href="https://fatihozden.av.tr/en/rejection-of-inheritance.html"/>
+       <lastmod>2026-02-28T15:30:00+00:00</lastmod>
+       <changefreq>monthly</changefreq>
+       <priority>0.7000</priority>
+  </url>
+  <url>
+       <loc>https://fatihozden.av.tr/idari-iptal-davalari.html</loc>
+       <xhtml:link rel="alternate" hreflang="tr" href="https://fatihozden.av.tr/idari-iptal-davalari.html"/>
+       <xhtml:link rel="alternate" hreflang="x-default" href="https://fatihozden.av.tr/idari-iptal-davalari.html"/>
+       <xhtml:link rel="alternate" hreflang="en" href="https://fatihozden.av.tr/en/administrative-annulment-cases.html"/>
+       <lastmod>2026-02-28T15:30:00+00:00</lastmod>
+       <changefreq>monthly</changefreq>
+       <priority>0.7000</priority>
+  </url>
+  <url>
+       <loc>https://fatihozden.av.tr/onleyici-hukuk.html</loc>
+       <xhtml:link rel="alternate" hreflang="tr" href="https://fatihozden.av.tr/onleyici-hukuk.html"/>
+       <xhtml:link rel="alternate" hreflang="x-default" href="https://fatihozden.av.tr/onleyici-hukuk.html"/>
+       <xhtml:link rel="alternate" hreflang="en" href="https://fatihozden.av.tr/en/preventive-law.html"/>
+       <lastmod>2026-02-28T15:30:00+00:00</lastmod>
+       <changefreq>monthly</changefreq>
+       <priority>0.7000</priority>
+  </url>
+
+  <url>
+       <loc>https://fatihozden.av.tr/ceza-davalarinda-savunma-hakki.html</loc>
+       <xhtml:link rel="alternate" hreflang="tr" href="https://fatihozden.av.tr/ceza-davalarinda-savunma-hakki.html"/>
+       <xhtml:link rel="alternate" hreflang="x-default" href="https://fatihozden.av.tr/ceza-davalarinda-savunma-hakki.html"/>
+       <xhtml:link rel="alternate" hreflang="en" href="https://fatihozden.av.tr/en/criminal-defense-rights.html"/>
+       <lastmod>2026-02-28T14:00:00+00:00</lastmod>
+       <changefreq>monthly</changefreq>
+       <priority>0.7000</priority>
+  </url>
+
+  <url>
+       <loc>https://fatihozden.av.tr/kat-mulkiyeti-apartman-sorunlari.html</loc>
+       <xhtml:link rel="alternate" hreflang="tr" href="https://fatihozden.av.tr/kat-mulkiyeti-apartman-sorunlari.html"/>
+       <xhtml:link rel="alternate" hreflang="x-default" href="https://fatihozden.av.tr/kat-mulkiyeti-apartman-sorunlari.html"/>
+       <xhtml:link rel="alternate" hreflang="en" href="https://fatihozden.av.tr/en/condominium-apartment-disputes.html"/>
+       <lastmod>2026-02-28T15:30:00+00:00</lastmod>
+       <changefreq>monthly</changefreq>
+       <priority>0.7000</priority>
+  </url>
+
+  <!-- English Pages -->
+  <url>
+       <loc>https://fatihozden.av.tr/en/</loc>
+       <xhtml:link rel="alternate" hreflang="en" href="https://fatihozden.av.tr/en/"/>
+       <xhtml:link rel="alternate" hreflang="tr" href="https://fatihozden.av.tr/"/>
+       <lastmod>2026-02-28T15:30:00+00:00</lastmod>
+       <changefreq>daily</changefreq>
+       <priority>0.9000</priority>
+  </url>
+  
+  <!-- Hizmet Sayfaları (EN) -->
+  <url>
+       <loc>https://fatihozden.av.tr/en/expert-mediation.html</loc>
+       <xhtml:link rel="alternate" hreflang="en" href="https://fatihozden.av.tr/en/expert-mediation.html"/>
+       <xhtml:link rel="alternate" hreflang="tr" href="https://fatihozden.av.tr/uzman-arabuluculuk.html"/>
+       <lastmod>2026-02-28T15:30:00+00:00</lastmod>
+       <changefreq>weekly</changefreq>
+       <priority>0.8000</priority>
+  </url>
+  <url>
+       <loc>https://fatihozden.av.tr/en/family-law.html</loc>
+       <xhtml:link rel="alternate" hreflang="en" href="https://fatihozden.av.tr/en/family-law.html"/>
+       <xhtml:link rel="alternate" hreflang="tr" href="https://fatihozden.av.tr/aile-hukuku.html"/>
+       <lastmod>2026-02-28T15:30:00+00:00</lastmod>
+       <changefreq>weekly</changefreq>
+       <priority>0.7000</priority>
+  </url>
+  <url>
+       <loc>https://fatihozden.av.tr/en/employment-law.html</loc>
+       <xhtml:link rel="alternate" hreflang="en" href="https://fatihozden.av.tr/en/employment-law.html"/>
+       <xhtml:link rel="alternate" hreflang="tr" href="https://fatihozden.av.tr/is-hukuku.html"/>
+       <lastmod>2026-02-28T15:30:00+00:00</lastmod>
+       <changefreq>weekly</changefreq>
+       <priority>0.7000</priority>
+  </url>
+  <url>
+       <loc>https://fatihozden.av.tr/en/real-estate-law.html</loc>
+       <xhtml:link rel="alternate" hreflang="en" href="https://fatihozden.av.tr/en/real-estate-law.html"/>
+       <xhtml:link rel="alternate" hreflang="tr" href="https://fatihozden.av.tr/gayrimenkul-hukuku.html"/>
+       <lastmod>2026-02-28T15:30:00+00:00</lastmod>
+       <changefreq>weekly</changefreq>
+       <priority>0.7000</priority>
+  </url>
+  <url>
+       <loc>https://fatihozden.av.tr/en/inheritance-law.html</loc>
+       <xhtml:link rel="alternate" hreflang="en" href="https://fatihozden.av.tr/en/inheritance-law.html"/>
+       <xhtml:link rel="alternate" hreflang="tr" href="https://fatihozden.av.tr/miras-hukuku.html"/>
+       <lastmod>2026-02-28T15:30:00+00:00</lastmod>
+       <changefreq>weekly</changefreq>
+       <priority>0.7000</priority>
+  </url>
+  <url>
+       <loc>https://fatihozden.av.tr/en/criminal-defense.html</loc>
+       <xhtml:link rel="alternate" hreflang="en" href="https://fatihozden.av.tr/en/criminal-defense.html"/>
+       <xhtml:link rel="alternate" hreflang="tr" href="https://fatihozden.av.tr/ceza-hukuku.html"/>
+       <lastmod>2026-02-28T15:30:00+00:00</lastmod>
+       <changefreq>weekly</changefreq>
+       <priority>0.7000</priority>
+  </url>
+  <url>
+       <loc>https://fatihozden.av.tr/en/administrative-law.html</loc>
+       <xhtml:link rel="alternate" hreflang="en" href="https://fatihozden.av.tr/en/administrative-law.html"/>
+       <xhtml:link rel="alternate" hreflang="tr" href="https://fatihozden.av.tr/idare-hukuku.html"/>
+       <lastmod>2026-02-28T15:30:00+00:00</lastmod>
+       <changefreq>weekly</changefreq>
+       <priority>0.7000</priority>
+  </url>
+  <url>
+       <loc>https://fatihozden.av.tr/en/enforcement-bankruptcy-law.html</loc>
+       <xhtml:link rel="alternate" hreflang="en" href="https://fatihozden.av.tr/en/enforcement-bankruptcy-law.html"/>
+       <xhtml:link rel="alternate" hreflang="tr" href="https://fatihozden.av.tr/icra-iflas.html"/>
+       <lastmod>2026-02-28T15:30:00+00:00</lastmod>
+       <changefreq>weekly</changefreq>
+       <priority>0.7000</priority>
+  </url>
+  <url>
+       <loc>https://fatihozden.av.tr/en/legal-consultancy.html</loc>
+       <xhtml:link rel="alternate" hreflang="en" href="https://fatihozden.av.tr/en/legal-consultancy.html"/>
+       <xhtml:link rel="alternate" hreflang="tr" href="https://fatihozden.av.tr/hukuki-danismanlik.html"/>
+       <lastmod>2026-02-28T15:30:00+00:00</lastmod>
+       <changefreq>weekly</changefreq>
+       <priority>0.7000</priority>
+  </url>
+  
+  <!-- Blog Sayfaları (EN) -->
+  <url>
+       <loc>https://fatihozden.av.tr/en/criminal-defense-rights.html</loc>
+       <xhtml:link rel="alternate" hreflang="en" href="https://fatihozden.av.tr/en/criminal-defense-rights.html"/>
+       <xhtml:link rel="alternate" hreflang="tr" href="https://fatihozden.av.tr/ceza-davalarinda-savunma-hakki.html"/>
+       <lastmod>2026-02-28T14:43:00+00:00</lastmod>
+       <changefreq>monthly</changefreq>
+       <priority>0.6000</priority>
+  </url>
+  <url>
+       <loc>https://fatihozden.av.tr/en/mediation-process.html</loc>
+       <xhtml:link rel="alternate" hreflang="en" href="https://fatihozden.av.tr/en/mediation-process.html"/>
+       <xhtml:link rel="alternate" hreflang="tr" href="https://fatihozden.av.tr/arabuluculuk-sureci.html"/>
+       <lastmod>2026-02-28T15:30:00+00:00</lastmod>
+       <changefreq>monthly</changefreq>
+       <priority>0.6000</priority>
+  </url>
+  <url>
+       <loc>https://fatihozden.av.tr/en/cerkezkoy-divorce-cases.html</loc>
+       <xhtml:link rel="alternate" hreflang="en" href="https://fatihozden.av.tr/en/cerkezkoy-divorce-cases.html"/>
+       <xhtml:link rel="alternate" hreflang="tr" href="https://fatihozden.av.tr/cerkezkoy-bosanma-davalari.html"/>
+       <lastmod>2026-02-28T15:30:00+00:00</lastmod>
+       <changefreq>monthly</changefreq>
+       <priority>0.6000</priority>
+  </url>
+  <url>
+       <loc>https://fatihozden.av.tr/en/severance-pay.html</loc>
+       <xhtml:link rel="alternate" hreflang="en" href="https://fatihozden.av.tr/en/severance-pay.html"/>
+       <xhtml:link rel="alternate" hreflang="tr" href="https://fatihozden.av.tr/kidem-tazminati.html"/>
+       <lastmod>2026-02-28T15:30:00+00:00</lastmod>
+       <changefreq>monthly</changefreq>
+       <priority>0.6000</priority>
+  </url>
+  <url>
+       <loc>https://fatihozden.av.tr/en/mediation-guide.html</loc>
+       <xhtml:link rel="alternate" hreflang="en" href="https://fatihozden.av.tr/en/mediation-guide.html"/>
+       <xhtml:link rel="alternate" hreflang="tr" href="https://fatihozden.av.tr/arabuluculuk-rehberi.html"/>
+       <lastmod>2026-02-28T15:30:00+00:00</lastmod>
+       <changefreq>monthly</changefreq>
+       <priority>0.6000</priority>
+  </url>
+  <url>
+       <loc>https://fatihozden.av.tr/en/rejection-of-inheritance.html</loc>
+       <xhtml:link rel="alternate" hreflang="en" href="https://fatihozden.av.tr/en/rejection-of-inheritance.html"/>
+       <xhtml:link rel="alternate" hreflang="tr" href="https://fatihozden.av.tr/reddi-miras.html"/>
+       <lastmod>2026-02-28T15:30:00+00:00</lastmod>
+       <changefreq>monthly</changefreq>
+       <priority>0.6000</priority>
+  </url>
+  <url>
+       <loc>https://fatihozden.av.tr/en/administrative-annulment-cases.html</loc>
+       <xhtml:link rel="alternate" hreflang="en" href="https://fatihozden.av.tr/en/administrative-annulment-cases.html"/>
+       <xhtml:link rel="alternate" hreflang="tr" href="https://fatihozden.av.tr/idari-iptal-davalari.html"/>
+       <lastmod>2026-02-28T15:30:00+00:00</lastmod>
+       <changefreq>monthly</changefreq>
+       <priority>0.6000</priority>
+  </url>
+  <url>
+       <loc>https://fatihozden.av.tr/en/preventive-law.html</loc>
+       <xhtml:link rel="alternate" hreflang="en" href="https://fatihozden.av.tr/en/preventive-law.html"/>
+       <xhtml:link rel="alternate" hreflang="tr" href="https://fatihozden.av.tr/onleyici-hukuk.html"/>
+       <lastmod>2026-02-28T15:30:00+00:00</lastmod>
+       <changefreq>monthly</changefreq>
+       <priority>0.6000</priority>
+  </url>
+  <url>
+       <loc>https://fatihozden.av.tr/en/condominium-apartment-disputes.html</loc>
+       <xhtml:link rel="alternate" hreflang="en" href="https://fatihozden.av.tr/en/condominium-apartment-disputes.html"/>
+       <xhtml:link rel="alternate" hreflang="tr" href="https://fatihozden.av.tr/kat-mulkiyeti-apartman-sorunlari.html"/>
+       <lastmod>2026-02-28T15:30:00+00:00</lastmod>
+       <changefreq>monthly</changefreq>
+       <priority>0.6000</priority>
+  </url>
+</urlset>
