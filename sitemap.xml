@@ -98,6 +98,15 @@
   
   <!-- Blog Sayfaları (TR) -->
   <url>
+       <loc>https://fatihozden.av.tr/is-kazasi-iscini-haklari-tazminat.html</loc>
+       <xhtml:link rel="alternate" hreflang="tr" href="https://fatihozden.av.tr/is-kazasi-iscini-haklari-tazminat.html"/>
+       <xhtml:link rel="alternate" hreflang="x-default" href="https://fatihozden.av.tr/is-kazasi-iscini-haklari-tazminat.html"/>
+       <xhtml:link rel="alternate" hreflang="en" href="https://fatihozden.av.tr/en/work-accident-worker-rights-compensation.html"/>
+       <lastmod>2026-07-05T00:00:00+00:00</lastmod>
+       <changefreq>monthly</changefreq>
+       <priority>0.7000</priority>
+  </url>
+  <url>
        <loc>https://fatihozden.av.tr/icra-takibi-borc-tahsili.html</loc>
        <xhtml:link rel="alternate" hreflang="tr" href="https://fatihozden.av.tr/icra-takibi-borc-tahsili.html"/>
        <xhtml:link rel="alternate" hreflang="x-default" href="https://fatihozden.av.tr/icra-takibi-borc-tahsili.html"/>
@@ -275,6 +284,14 @@
   </url>
   
   <!-- Blog Sayfaları (EN) -->
+  <url>
+       <loc>https://fatihozden.av.tr/en/work-accident-worker-rights-compensation.html</loc>
+       <xhtml:link rel="alternate" hreflang="en" href="https://fatihozden.av.tr/en/work-accident-worker-rights-compensation.html"/>
+       <xhtml:link rel="alternate" hreflang="tr" href="https://fatihozden.av.tr/is-kazasi-iscini-haklari-tazminat.html"/>
+       <lastmod>2026-07-05T00:00:00+00:00</lastmod>
+       <changefreq>monthly</changefreq>
+       <priority>0.6000</priority>
+  </url>
   <url>
        <loc>https://fatihozden.av.tr/en/criminal-defense-rights.html</loc>
        <xhtml:link rel="alternate" hreflang="en" href="https://fatihozden.av.tr/en/criminal-defense-rights.html"/>
